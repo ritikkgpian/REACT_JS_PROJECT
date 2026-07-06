@@ -8,7 +8,7 @@ import NoticeDetail from "../features/NoticeDetail";
 
 export default function Notices(){
   const [text,setText]=useState("");
-    const tabs=["Academics","Placements and Internships","Gymkhana and Clubs","Sports and Games "];
+    const tabs=["Academics","Placements and Internships","Gymkhana and Clubs","Hostel and Mess"];
     const [category,setCategory]=useState("Academics");
     
     //
