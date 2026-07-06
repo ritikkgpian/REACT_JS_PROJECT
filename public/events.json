@@ -1,0 +1,118 @@
+[
+  {
+    "id": "1",
+    "title": "Inter IIT Sports Meet Registration",
+    "category": "Inter IIT",
+    "shortContent": "Selection trials open for athletics and football squads.",
+    "fullContent": "The contingent selection trials for the upcoming Inter IIT Sports Meet kick off this week at the main stadium. Athletes must report in standard sports gear by 6:00 AM. Bring your official student identity cards."
+  },
+  {
+    "id": "2",
+    "title": "Inter IIT Tech Meet Problem Statements",
+    "category": "Inter IIT",
+    "shortContent": "High-prep data science and robotics problems released.",
+    "fullContent": "The official high-prep problem statements for the annual Inter IIT Tech Meet have been published. Teams working on Autonomous Underwater Vehicles and Low-Cost Financial Analytics must submit initial design abstracts by next Sunday."
+  },
+  {
+    "id": "3",
+    "title": "Inter IIT Cultural Meet Auditions",
+    "category": "Inter IIT",
+    "shortContent": "Dramatics and debate contingent selection trials.",
+    "fullContent": "Join the elite cultural contingent representation team. Open trials for street play, english parliamentary debating, and contemporary group choreography will be judged by senior mentors inside the main auditorium boards."
+  },
+  { "id": "4", "title": "Inter IIT Aquatics Championship", "category": "Inter IIT", "shortContent": "Swimming contingent leaves for training camp.", "fullContent": "Selected swimmers representing the institute squad are directed to attend the mandatory 2-week high-intensity camp at the campus pool facility starting tomorrow." },
+  { "id": "5", "title": "Inter IIT Chess and Esports Trials", "category": "Inter IIT", "shortContent": "Register for virtual checkmate selections.", "fullContent": "Trials for the mental sports division will be conducted online via competitive chess platforms. Top 5 ranking players secure positions in the travel squad." },
+  { "id": "6", "title": "Inter IIT Cricket Camp Schedule", "category": "Inter IIT", "shortContent": "Net practice sessions under floodlights.", "fullContent": "The main cricket contingent will undergo defensive batting and situational death-bowling drills under the stadium floodlights daily from 7 PM to 10 PM." },
+  { "id": "7", "title": "Inter IIT Contingent Group Photo", "category": "Inter IIT", "shortContent": "Official jersey distribution ceremony.", "fullContent": "All selected sports, tech, and cult contingent members must gather at the main administrative building steps at 4 PM for the formal blazer allocation and group photograph." },
+  { "id": "8", "title": "Inter IIT Tech Meet Pitch Presentation", "category": "Inter IIT", "shortContent": "Mock showcase evaluations before expert panel.", "fullContent": "The product development and software development teams will showcase their final minimum viable products to senior faculty supervisors for feedback iteration loops." },
+  { "id": "9", "title": "Inter IIT Travel Grant Reimbursement", "category": "Inter IIT", "shortContent": "Submit tickets and allowance sheets.", "fullContent": "Students who travelled for the outer campus selection invitation matches must submit their original train booking invoices to the gymkhana office for full financial clearance." },
+  { "id": "10", "title": "Inter IIT Tennis Championship Finals", "category": "Inter IIT", "shortContent": "Watch the home stadium exhibition match.", "fullContent": "Come support the home team as our tennis contingent faces off against a visiting alumni squad in a preparatory match ahead of the winter championship games." },
+
+  {
+    "id": "11",
+    "title": "General Championship Football Fixtures",
+    "category": "General Championship",
+    "shortContent": "High-stakes inter-hall group stage matches.",
+    "fullContent": "The annual Inter-Hall Football General Championship matches begin this Tuesday. Defending champions face off against last year's runners-up at the secondary sports grounds. High attendance expected."
+  },
+  {
+    "id": "12",
+    "title": "GC Case Study Competition Brief",
+    "category": "General Championship",
+    "shortContent": "Inter-hall business consultancy problem statement.",
+    "fullContent": "The Technology GC presents the corporate strategy case challenge. Halls must construct a 10-slide growth strategy roadmap addressing market entry bottlenecks for renewable energy providers."
+  },
+  {
+    "id": "13",
+    "title": "Inter-Hall Choreography GC Night",
+    "category": "General Championship",
+    "shortContent": "Theme-based dance presentations at open-air theater.",
+    "fullContent": "Get ready for the biggest cultural night of the semester. The Inter-Hall Choreography GC takes center stage at the Open Air Theater. Seating is strictly on a first-come, first-served basis."
+  },
+  { "id": "14", "title": "GC Cricket Semi-Final Lineup", "category": "General Championship", "shortContent": "Knockout matches under the oval stadium lights.", "fullContent": "The high-voltage cricket GC enters the semi-final stage. Matches will be super-scored via digital tracking telemetry setups. Come out and wave your hall flags!" },
+  { "id": "15", "title": "Inter-Hall Illumination and Rangoli GC", "category": "General Championship", "shortContent": "Annual creative festival planning meeting.", "fullContent": "Hall presidents and festival coordinators must convene at the gymkhana office to lock the safety budget layouts and grid allocations for the massive bamboo-and-diya structures." },
+  { "id": "16", "title": "GC Data Analytics Challenge Results", "category": "General Championship", "shortContent": "Points table updates for the tech cup leaderboard.", "fullContent": "Following rigorous cross-validation of Kaggle machine learning script submissions, points for the Data Analytics GC have been awarded. Check the dynamic leaderboard sheet." },
+  { "id": "17", "title": "Inter-Hall Hindi Dramatics GC Stage", "category": "General Championship", "shortContent": "Three nights of intense stage play battles.", "fullContent": "The auditorium will play host to structural original script productions for the Hindi Stage Play GC. Audiences must switch off mobile electronics before entry lines." },
+  { "id": "18", "title": "GC Bridge and Chess Pairings", "category": "General Championship", "shortContent": "Indoor games points up for grabs this weekend.", "fullContent": "The indoor games room will host the inter-hall bridge card tournament layouts. Rounds will utilize formal competitive tournament timers with strict penalty rules." },
+  { "id": "19", "title": "Inter-Hall Debating GC Schedule", "category": "General Championship", "shortContent": "Turncoat and parliamentary debate layout splits.", "fullContent": "The debate wing announces the motion themes for the preliminary qualification rounds of the debating General Championship. Preparation times limited to 15 minutes." },
+  { "id": "20", "title": "GC Athletics Track Event Trials", "category": "General Championship", "shortContent": "100m, 400m, and relay team lineups.", "fullContent": "Hall sports captains must submit their finalized athlete registration slots for the track and field track lines before the timing gates are calibrated." },
+
+  {
+    "id": "21",
+    "title": "Open IIT Competitive Programming Contest",
+    "category": "Open IIT",
+    "shortContent": "Individual algorithm sprint open to all batches.",
+    "fullContent": "Test your programming skills against the entire student base. The Open IIT CP contest features 6 algorithmic problems ranging from dynamic programming to graph data structures. Top performers win custom merchandise."
+  },
+  {
+    "id": "22",
+    "title": "Open IIT Badminton Championship Tournament",
+    "category": "Open IIT",
+    "shortContent": "Singles and doubles open registration tracks.",
+    "fullContent": "No hall boundaries, no restriction constraints. The Open IIT Badminton championship invites registrations for individual singles and doubles brackets. Professional grade nylon shuttles will be provided."
+  },
+  {
+    "id": "23",
+    "title": "Open IIT Solo Instrumental Music Competition",
+    "category": "Open IIT",
+    "shortContent": "Showcase your guitar, keyboard, or violin skills.",
+    "fullContent": "The music society is conducting the Open IIT Solo Instrumental showcase inside the practice room. Synthesizers and amplifier stacks are wired up for plug-and-play use."
+  },
+  { "id": "24", "title": "Open IIT Hackathon Dev Sprint", "category": "Open IIT", "shortContent": "24-hour product build open track.", "fullContent": "Bring your laptop and an idea. The Open IIT Dev Sprint challenges you to deploy a fully functional web tool that solves a real student productivity problem in a single day." },
+  { "id": "25", "title": "Open IIT Photography Exhibition Contest", "category": "Open IIT", "shortContent": "Submit your best campus landscape frames.",
+    "fullContent": "The theme for this iteration of the Open IIT photo-contest is 'Monsoon Shadows around Campus'. Digital files must retain original metadata files to check authenticity tags." },
+  { "id": "26", "title": "Open IIT Western Vocals Auditions", "category": "Open IIT", "shortContent": "Acapella and solo singing performance rounds.", "fullContent": "Open stage vocal tracks are now active. Performers will get exactly 3 minutes to present their vocal range arrangements to our panel of student judges." },
+  { "id": "27", "title": "Open IIT Quiz - General and Pop Culture", "category": "Open IIT", "shortContent": "Gather your team of three for the quiz bowl.", "fullContent": "A high-octane trivia showdown featuring audiovisual rounds spanning history, science, literature, and cinema themes. No registration fee required." },
+  { "id": "28", "title": "Open IIT Table Tennis Open Draws", "category": "Open IIT", "shortContent": "Knockout table tennis fixtures announced.", "fullContent": "The indoor sports arena has released the official brackets for the single-elimination table tennis tournament. Matches will follow standard ITTF rules." },
+  { "id": "29", "title": "Open IIT Fin-Tech Trading Simulation", "category": "Open IIT", "shortContent": "Mock trading desk algorithmic competition.", "fullContent": "Manage a simulated portfolio worth 1 million in virtual funds. Trade real-time options and equites market feeds during this weekend's open finance test tracker." },
+  { "id": "30", "title": "Open IIT Sketching and Painting Show", "category": "Open IIT", "shortContent": "Live charcoal sketching competition at core labs.", "fullContent": "An expressive visual arts tournament open to all batches. Charcoal sticks, cartridge papers, and fine liners will be provided by the fine arts society." },
+
+  {
+    "id": "31",
+    "title": "Annual Alumni Meet Panel Discussion",
+    "category": "Alumni Meet",
+    "shortContent": "Interactive session with CXOs and global founders.",
+    "fullContent": "Our returning corporate alumni gather inside the main convention center to discuss the global macro landscape, generative systems investments, and strategic startup incubation opportunities."
+  },
+  {
+    "id": "32",
+    "title": "Alumni Networking Dinner Pass Allocation",
+    "category": "Alumni Meet",
+    "shortContent": "Final year student access passes open.",
+    "fullContent": "A premier networking opportunity. Graduating final-year students can reserve entry tokens for the grand lawn networking gala dinner to connect directly with hiring managers and industry veterans."
+  },
+  {
+    "id": "33",
+    "title": "Silver Jubilee Batch Gift Inception",
+    "category": "Alumni Meet",
+    "shortContent": "Inauguration of the new campus innovation lab.",
+    "fullContent": "The Class of 2001 is celebrating its Silver Jubilee by funding an state-of-the-art AI Compute Research Lab. The inauguration ribbon-cutting ceremony takes place this Friday."
+  },
+  { "id": "34", "title": "Alumni Mentorship Program Registration", "category": "Alumni Meet", "shortContent": "Get paired with global tech leads.", "fullContent": "The alumni relations cell is launching its long-term career mentorship track. Second and third-year students will be paired with alumni working across Wall Street and Silicon Valley." },
+  { "id": "35", "title": "Alumni vs Students T20 Cricket Match", "category": "Alumni Meet", "shortContent": "The traditional exhibition match returns.", "fullContent": "Join us for the friendly annual T20 cricket showdown between the student team and the returning veteran alumni squad at the main campus cricket pitch." },
+  { "id": "36", "title": "Alumni Meet Startup Pitch Event", "category": "Alumni Meet", "shortContent": "Pitch your student venture to angel investors.", "fullContent": "Early-stage student startups have a unique opportunity to secure seed investments. Present your pitch deck directly to a panel of alumni venture capitalists." },
+  { "id": "37", "title": "Departmental Alumni Interactive Panels", "category": "Alumni Meet", "shortContent": "Core industry insights for engineering branches.", "fullContent": "Individual engineering branches will host separate interactive meetups inside their seminar rooms. Learn about the evolving landscape of core jobs directly from senior engineers." },
+  { "id": "38", "title": "Alumni Distinguished Awards Ceremony", "category": "Alumni Meet", "shortContent": "Celebrating exceptional research achievements.", "fullContent": "The institute director will present the Distinguished Alumnus Awards to notable pathbreakers who have contributed significantly to global scientific advancement." },
+  { "id": "39", "title": "Alumni Campus Nostalgia Walk Tour", "category": "Alumni Meet", "shortContent": "Guided cycle tour across old hall perimeters.", "fullContent": "A scenic trip down memory lane. Current student volunteers will lead our returning alumni on a nostalgic tour of the changed campus architecture layouts." },
+  { "id": "40", "title": "Alumni Meet Cultural Performance Evening", "category": "Alumni Meet", "shortContent": "Classical fusion concert for visiting guests.", "fullContent": "To conclude the annual reunion fest, the cultural societies will stage a magnificent classical jugalbandi and musical fusion night inside the main auditorium." }
+]

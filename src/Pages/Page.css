@@ -1,0 +1,27 @@
+.boxInput::placeholder {
+  color: black;
+  font-weight: 800;
+  opacity: 1;
+  font-size: 20px;
+  text-align: center;
+   
+}
+.boxInput{
+     color: black;
+  font-weight: 800;
+  opacity: 1;
+  font-size: 20px;
+}
+.category-filter-box label{
+ color:red;
+  font-weight: 900;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  opacity: 1;
+  font-size: 20px;
+}
+.category{
+    height:40px;
+    border-color:blue;
+    box-shadow: 2px 2px 10px grey;
+    margin-left: 20px;
+}
