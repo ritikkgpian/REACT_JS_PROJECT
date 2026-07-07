@@ -2,10 +2,11 @@ import React from "react";
 import { NavLink } from "react-router-dom";
 
 import { FaHome } from "react-icons/fa";
+
 export default function Nav(){
     return(
         <>
-        <div className="header"style={{height:"70px",width:"100%",backgroundColor:"rgb(35,25,70)",display:"flex",flexDirection:"row",justifyContent:"space-between"}}>
+        <div className="header" style={{height:"70px",width:"100%",backgroundColor:"rgb(35,25,70)",display:"flex",flexDirection:"row",justifyContent:"space-between"}}>
         {/* logo+text */}
         <div style={{display:"flex",flexDirection:"row",gap:"20px",marginLeft:"30px"}}>
             <div style={{marginTop:"7px"}}>
@@ -27,6 +28,7 @@ export default function Nav(){
 
                 <NavLink to="/events" style={{color:"white",textDecoration:"none",fontFamily:"sans-serif",fontWeight:"800"}}>EVENTS</NavLink>
                 <NavLink to="/logIn" style={{color:"white",textDecoration:"none",fontFamily:"sans-serif",fontWeight:"800"}}>LOG IN </NavLink>
+                <NavLink to="/save" style={{color:"white",textDecoration:"none",fontFamily:"sans-serif",fontWeight:"800"}}>SAVE </NavLink>
              </div>
 
 

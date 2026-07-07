@@ -4,6 +4,7 @@ import { useForm } from "react-hook-form";
 import {z} from "zod";
 import { zodResolver } from "@hookform/resolvers/zod"; 
 import toast from "react-hot-toast"
+import './Page.css';
 
 const formSchema=z.object({
     username:z.string().min(3,"Minimum 3 characters required").max(25,"Proper name is required"),
@@ -23,44 +24,40 @@ const onSubmitForm = (data) => {
         const oldData=JSON.parse(localStorage.getItem("object")) || [];
         const newData=[...oldData,data];
         localStorage.setItem("object",JSON.stringify(newData));
-       alert("Form Submitted");
+       
+       setTimeout(() => {
+    toast.success("Form Submitted Successfully", {
+        duration: 4000,
+        position: "top-center",
+        style: {
+            fontFamily: "sans-serif",
+            color: "green",
+            fontWeight: "800",
+        }
+    });
+}, 1000);
         
     };
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     return(
         <  >
-      
+   
          
-        <div style={{backgroundColor: "rgb(35,25,60)"  ,height:"600px",width:"450px",justifyContent:"center",alignItems:"center",marginLeft:"500px",marginTop:"40px",borderRadius:"30px",boxShadow:"2px 2px 10px blue"}}>
+        <div style={{backgroundColor: "rgb(35,25,60)"  ,height:"600px",width:"450px",justifyContent:"center",alignItems:"center",marginLeft:"500px",marginTop:"0px",borderRadius:"30px",boxShadow:"2px 2px 10px blue"}}>
         <div style={{marginTop:"10px"}}>
             <h2 style={{textAlign:"center",color:"white",fontFamily:"sans-serif",fontWeight:"700",fontSize:"30px"}}>Sign In </h2>
         </div>
         <form onSubmit={handleSubmit(onSubmitForm)}>
-        <div style={{marginTop:"40px",marginLeft:"10px"}}>
+        <div className="userNamebox"  style={{marginTop:"40px",marginLeft:"10px"}}>
             <label style={{  color:"orange",fontFamily:"sans-serif",fontWeight:"800",fontSize:"20px",}}>Username</label>
             
             <input  {...register("username")} style={{height:"30px",width:"60%",marginLeft:"60px",borderRadius:"20px",boxShadow:"2px 2px 10px grey"}} type="text" placeholder="Type your name here..." ></input>
             {errors.username && <p style={{color:"red",paddingLeft:"10px",fontFamily:"sans-serif",fontWeight:"700"}}>{errors.username.message}</p>}
         </div>
            
-          <div style={{marginTop:"30px",marginLeft:"10px"}}>
+          <div   className="passwordBox" style={{marginTop:"30px",marginLeft:"10px"}}>
             <label style={{  color:"orange",fontFamily:"sans-serif",fontWeight:"800",fontSize:"20px",}}>Password</label>
             <input {...register("password")} style={{height:"30px",width:"60%",marginLeft:"60px",borderRadius:"20px",boxShadow:"2px 2px 10px grey"}} type="password" placeholder="enter your password here..." ></input>
             {errors.password && <p style={{color:"red",paddingLeft:"10px",fontFamily:"sans-serif",fontWeight:"700"}}>{errors.password.message}</p>}
@@ -82,16 +79,16 @@ const onSubmitForm = (data) => {
             <h3 style={{textAlign:"center",color:"orange"}}>Or with your social media account?</h3>
         </div>
         <div style={{display:"flex",flexDirection:"row",gap:"50px",marginTop:"40px"}}>
-            <div style={{height:"20px",width:"80px",backgroundColor:"#ADD8E6",marginLeft:"30px"}}>
-               <h3 style={{color:"black",fontFamily:"sans-serif",fontWeight:"600"}}>Twitter</h3>
+            <div style={{height:"20px",width:"80px",marginLeft:"30px"}}>
+               <button style={{color:"black",fontFamily:"sans-serif",fontWeight:"600",width:"90px",height:"30px"}}>Twitter</button>
                 
             </div>
-              <div style={{height:"20px",width:"90px",backgroundColor:"blue",marginLeft:"30px"}}>
-               <h3 style={{color:"white",fontFamily:"sans-serif",fontWeight:"600"}}>Facebook</h3>
+              <div style={{height:"20px",width:"90px",marginLeft:"30px"}}>
+               <button style={{color:"white",fontFamily:"sans-serif",  backgroundColor:"blue", fontWeight:"600",width:"90px",height:"30px"}}>Facebook</button>
                 
             </div>
-               <div style={{height:"20px",width:"90px",backgroundColor:"red",marginLeft:"30px"}}>
-               <h3 style={{color:"white",fontFamily:"sans-serif",fontWeight:"600"}}>Google</h3>
+               <div style={{height:"20px",width:"90px",marginLeft:"30px"}}>
+               <button style={{color:"white",fontFamily:"sans-serif",fontWeight:"600",width:"90px",height:"30px",backgroundColor:"red"}}>Google</button>
                 
             </div>
              
@@ -110,7 +107,7 @@ const onSubmitForm = (data) => {
         </div>
         
         
-        
+      
         </>
     )
 }
