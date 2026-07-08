@@ -3,7 +3,7 @@ import './Page.css';
 import { useState } from "react";
 import { useContext } from "react";
 import NoticeDetail from "../features/NoticeDetail";
- 
+import noticeData from './NOTICES.json';
 
 // another part here 
 
@@ -29,16 +29,16 @@ export default function Notices(){
             // resolve tells the promise it's finished after 2000ms
             
         });
+       setNotices(noticeData);
 
 
-
-      const data= await fetch("/notices.json");
-      if(!data.ok){
-        throw new Error("Failed to fetch the data!! Please try again..")
-        // this is the error message 
-      }
-      const response=await data.json();
-      setNotices(response);
+      // const data= await fetch("/notices.json");
+      // if(!data.ok){
+      //   throw new Error("Failed to fetch the data!! Please try again..")
+      //   // this is the error message 
+      // }
+      // const response=await data.json();
+      // setNotices(response);
       
      
     

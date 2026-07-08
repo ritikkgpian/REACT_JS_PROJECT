@@ -1,6 +1,7 @@
 import React from "react";
 import { useState } from "react";
 import EventsDetail from "../features/EventsDetail";
+import eventData from "./EVENTS.json";
 export default function Events(){
   const tabs=["Alumni Meet","Inter IIT","Open IIT","General Championship"];
   const [text,setText]=useState("");
@@ -29,13 +30,14 @@ const handleBrowserClick= async ()=>{
 
 
 
-      const data= await fetch("/events.json");
-      if(!data.ok){
-        throw new Error("Failed to fetch the data!! Please try again..")
-        // this is the error message 
-      }
-      const response=await data.json();
-      setEvents(response);
+      // const data= await fetch("/events.json");
+      // if(!data.ok){
+      //   throw new Error("Failed to fetch the data!! Please try again..")
+      //   // this is the error message 
+      // }
+      // const response=await data.json();
+      // setEvents(response);
+      setEvents(eventData);
      } catch(error){
        setError(error.message);
      } finally{
