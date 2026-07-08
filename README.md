@@ -8,7 +8,7 @@ any notice related to thier Academics and Placements.</h4>
 <h4>HTML,Vanilla CSS,Javascript,React JS,React Router, Redux Toolkit</h4>
 
 <h4>Key Features:</h4>
-<br>
+
 <h4>1)A welcome statement and visual appealing campus imagery. At the navbar section
 ,there is a clear navigation to all the sections of the application.</h4>
 
