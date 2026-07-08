@@ -31,3 +31,5 @@ notices and events along with real-time toast notifications whether it is saved 
 no such notices or events are present ,a friendly notice is also displayed.</h4>
 <h4>Github host Link:</h4>
 https://ritikkgpian.github.io/REACT_JS_PROJECT/
+<h4>Vercel live Link:</h4>
+https://react-js-project-lyart.vercel.app/
