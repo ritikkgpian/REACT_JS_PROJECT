@@ -1,0 +1,117 @@
+[
+  {
+    "id": "1",
+    "title": "Mid Semester Examination Schedule",
+    "category": "Academics",
+    "shortContent": "Timetable for Autumn Mid-Sem exams.",
+    "fullContent": "The Autumn Mid Semester Examinations are scheduled from September 15th. Check your ERP portal for your specific seating arrangement and exam timings. Carrying your physical ID card is mandatory."
+  },
+  {
+    "id": "2",
+    "title": "End Semester Project Submission",
+    "category": "Academics",
+    "shortContent": "Submit your final year project reports by November 30.",
+    "fullContent": "All final year students must upload their project thesis signed by their respective guides onto the academic portal before 5:00 PM on November 30. No late extensions will be granted."
+  },
+  {
+    "id": "3",
+    "title": "Subject Registration Deadline Extension",
+    "category": "Academics",
+    "shortContent": "Spring semester registration extended.",
+    "fullContent": "The deadline for elective choices and subject registration for the upcoming Spring semester has been extended until this Friday at midnight. Ensure all pending dues are cleared."
+  },
+  { "id": "4", "title": "Academic Probation Evaluation", "category": "Academics", "shortContent": "Review for students below critical CGPA.", "fullContent": "Students currently on academic probation must meet with their faculty advisors this Tuesday to finalize their remedial course roadmap." },
+  { "id": "5", "title": "Convocation Degree Verification", "category": "Academics", "shortContent": "Verify your certificate name details.", "fullContent": "Graduating students must verify the spelling of their names in both English and Hindi on the ERP system for degree printing before next week." },
+  { "id": "6", "title": "Branch Change Rules Announcement", "category": "Academics", "shortContent": "Criteria for first-year branch upgrades.", "fullContent": "First-year students interested in a branch change must maintain a CGPA above 8.5 without any backlogs. Applications open on July 10th." },
+  { "id": "7", "title": "Summer Course Registration Open", "category": "Academics", "shortContent": "Register for remedial summer classes.", "fullContent": "Summer term registration is now active for students wishing to clear backlogs in core engineering physics and mathematics subjects." },
+  { "id": "8", "title": "Attendance Policy Enforcement Notice", "category": "Academics", "shortContent": "75% attendance rule strict compliance.", "fullContent": "Deans office reiterates that students with less than 75% attendance in any lecture course will be debarred from writing the end-sem exams." },
+  { "id": "9", "title": "National Scholarship Portal Updates", "category": "Academics", "shortContent": "Submit applications for fee waivers.", "fullContent": "Eligible SC/ST/OBC and merit-cum-means students must submit their verified income certificates to the academic block for fee reimbursement." },
+  { "id": "10", "title": "Supplementary Exam Fee Payment", "category": "Academics", "shortContent": "Pay fees for clearing backlogs.", "fullContent": "The portal for supplementary exam fee payment is open. The fee is ₹500 per paper. Ensure transaction receipts are downloaded." },
+
+  {
+    "id": "11",
+    "title": "Google PPT and Internship Drive",
+    "category": "Placements and Internships",
+    "shortContent": "Pre-Placement Talk scheduled for 2nd/3rd year.",
+    "fullContent": "Google will host its Pre-Placement Talk in the main auditorium tomorrow at 4:00 PM. Open to circuit branches. Attendance is highly recommended for resume shortlisting."
+  },
+  {
+    "id": "12",
+    "title": "De Shaw Coding Test Shortlist",
+    "category": "Placements and Internships",
+    "shortContent": "Shortlisted candidates for round 2 interview.",
+    "fullContent": "The results for the DE Shaw online coding round are out. 15 students have skipped to the technical interviews starting tomorrow morning from 8:00 AM via MS Teams."
+  },
+  {
+    "id": "13",
+    "title": "Investment Banking Summer Internships",
+    "category": "Placements and Internships",
+    "shortContent": "Goldman Sachs profiles open for application.",
+    "fullContent": "Goldman Sachs is hiring Quant Analysts and Investment Banking interns. Strong proficiency in probability, linear algebra, and C++/Python is required. Apply on CDC portal."
+  },
+  { "id": "14", "title": "Resume Verification Phase 1 Close", "category": "Placements and Internships", "shortContent": "CDC resume verification closing.", "fullContent": "Ensure all master resumes are locked and verified by the placement committee. Unverified resumes cannot apply for day 1 companies." },
+  { "id": "15", "title": "Mock Interview Sessions by Alumni", "category": "Placements and Internships", "shortContent": "Register for technical mock interviews.", "fullContent": "The alumni network is organizing mock technical and HR rounds this weekend. Slot booking starts tonight on a first-come, first-served basis." },
+  { "id": "16", "title": "HFT Quantitative Trainee Openings", "category": "Placements and Internships", "shortContent": "High Frequency Trading roles available.", "fullContent": "An elite HFT firm is offering domestic and international postings for top competitive programmers. CTC packages start at 60+ LPA." },
+  { "id": "17", "title": "Data Science Internship at Microsoft", "category": "Placements and Internships", "shortContent": "Off-campus opportunities for 2nd years.", "fullContent": "Microsoft India has opened applications for exploratory data science roles. Knowledge of SQL, machine learning primitives, and R/Python is a plus." },
+  { "id": "18", "title": "Compulsory Internship NoC Request", "category": "Placements and Internships", "shortContent": "Process to generate No Objection Certificates.", "fullContent": "Students pursuing self-arranged winter internships must upload their offer letters to get a formal No Objection Certificate from the training cell." },
+  { "id": "19", "title": "Consulting Case Study Workshop", "category": "Placements and Internships", "shortContent": "Workshop by McKinsey consultants.", "fullContent": "Learn how to crack guesstimate and business case rounds directly from McKinsey consultants this Saturday in the management auditorium." },
+  { "id": "20", "title": "Core Engineering Placement Drive", "category": "Placements and Internships", "shortContent": "Tata Motors hiring mechanical/electrical grads.", "fullContent": "Tata Motors will visit campus next month for Graduate Engineer Trainee roles. Prepare core concepts of thermodynamics, machine design, and power systems." },
+
+  {
+    "id": "21",
+    "title": "Revised Mess Menu Announcement",
+    "category": "Hostel and Mess",
+    "shortContent": "Updated menu items for summer cycle.",
+    "fullContent": "Following feedback from the general body meeting, the hall council has added special items like paneer tikka on Wednesdays and ice cream treats on Sunday nights."
+  },
+  {
+    "id": "22",
+    "title": "Hostel Room Allotment for Freshers",
+    "category": "Hostel and Mess",
+    "shortContent": "Room allocations for the incoming batch.",
+    "fullContent": "Incoming first-year students have been automatically allocated double-sharing rooms across Halls 3, 4, and 5. Please report directly to the respective hall wardens."
+  },
+  {
+    "id": "23",
+    "title": "Geyser Maintenance and Water Supply Cut",
+    "category": "Hostel and Mess",
+    "shortContent": "Temporary water disruption on Thursday.",
+    "fullContent": "Due to routine cleaning of overhead water reservoirs and geyser element replacement, water supply will be suspended in Blocks A and B from 10:00 AM to 4:00 PM."
+  },
+  { "id": "24", "title": "Mess Rebate Policy Updates", "category": "Hostel and Mess", "shortContent": "Rules to apply for partial mess refunds.", "fullContent": "Students staying away from the hall for official events or holidays for more than 5 consecutive days can apply for mess rebates via the online portal." },
+  { "id": "25", "title": "Inter-Hall Sports Equipment Allotment", "category": "Hostel and Mess", "shortContent": "Collect sports kits from the common room.", "fullContent": "New table tennis rackets, cricket kits, and footballs have arrived. Students can issue them by submitting their hostel check-in cards." },
+  { "id": "26", "title": "Late Night Entry Registration Rules", "category": "Hostel and Mess", "shortContent": "Biometric logging mandatory after 11 PM.", "fullContent": "For security tracking, any student entering the hostel perimeter after 11:00 PM must log their entry via the biometric scanner at the main gate." },
+  { "id": "27", "title": "Washing Machine Token Automation", "category": "Hostel and Mess", "shortContent": "Digital tokens introduced for laundry.", "fullContent": "The manual token distribution system for common laundry washing machines is replaced by a digital QR payment system starting this Monday." },
+  { "id": "28", "title": "Pest Control Operation in All Blocks", "category": "Hostel and Mess", "shortContent": "Mandatory room availability for spray.", "fullContent": "An intensive pest and anti-mosquito fumigation drive will take place block-by-block. Please leave your doors accessible during scheduled hours." },
+  { "id": "29", "title": "Hostel Day Celebration Planning", "category": "Hostel and Mess", "shortContent": "Budget meeting for hall alumni dinner.", "fullContent": "The Hall Management Committee invites entries for the cultural night and decorations for our upcoming annual Hall Day function. Budget proposals are welcome." },
+  { "id": "30", "title": "LAN Port Repair Desk Schedule", "category": "Hostel and Mess", "shortContent": "Submit complaints for high-speed internet.", "fullContent": "A dedicated technician from the network systems facility will visit the common room daily to resolve individual room internet LAN port disconnects." },
+
+  {
+    "id": "31",
+    "title": "Spring Fest Orientation and Auditions",
+    "category": "Gymkhana and Clubs",
+    "shortContent": "Join the core organizing team.",
+    "fullContent": "The annual socio-cultural fest is seeking volunteers, web developers, public relations coordinates, and sponsorship executives. Orientations start tomorrow."
+  },
+  {
+    "id": "32",
+    "title": "Kshitij Tech Fest Robotics Challenge",
+    "category": "Gymkhana and Clubs",
+    "shortContent": "Register your team for Robowars.",
+    "fullContent": "Registrations are officially open for the flagship Robowars and drone racing events at Kshitij. Prizes worth over ₹5 Lakhs are up for grabs. Teams of up to 4 allowed."
+  },
+  {
+    "id": "33",
+    "title": "Inter-Hall General Championship (GC)",
+    "category": "Gymkhana and Clubs",
+    "shortContent": "Cricket and Football fixture releases.",
+    "fullContent": "The Technology Gymkhana has released the group stage schedules for the Inter-Hall General Championship. Matches kick off under the floodlights this Friday."
+  },
+  { "id": "34", "title": "Music Society Vocal Auditions", "category": "Gymkhana and Clubs", "shortContent": "Auditions for eastern and western bands.", "fullContent": "Do you sing or play instruments? The campus music society is hosting open jam auditions inside the music room. Bring your own instruments if possible." },
+  { "id": "35", "title": "Finance Club Quant Trainee Selection", "category": "Gymkhana and Clubs", "shortContent": "Selection task for algorithmic trading.", "fullContent": "The Finance Club is initiating its selection track for Quant Trainees. The test consists of brain teasers, puzzle solving, and stochastic processes." },
+  { "id": "36", "title": "Coding Club Hackathon Announcement", "category": "Gymkhana and Clubs", "shortContent": "36-hour overnight software hackathon.", "fullContent": "Form your teams for the annual dev-hack. Build open-source solutions addressing modern student productivity. Unlimited food and coffee provided." },
+  { "id": "37", "title": "Dramatics Club Street Play (Nukkad)", "category": "Gymkhana and Clubs", "shortContent": "Watch the open-air performance.", "fullContent": "The dramatics wing will stage a socially critical street play on mental well-being and campus pressure outside the main canteen arena at 5:00 PM." },
+  { "id": "38", "title": "E-Cell Startup Bootcamp Registration", "category": "Gymkhana and Clubs", "shortContent": "Get mentorship and funding for your ideas.", "fullContent": "The Entrepreneurship Cell presents a 3-week intensive bootcamp providing structural guidance from venture capitalists. Top ideas receive incubation seed grants." },
+  { "id": "39", "title": "Debating Society Open Selections", "category": "Gymkhana and Clubs", "shortContent": "British Parliamentary debate trials.", "fullContent": "Test your analytical skills and public speaking fluency. The debating team is holding introductory rounds with hypothetical policy scenarios." },
+  { "id": "40", "title": "Photography Club Photo-Walk Event", "category": "Gymkhana and Clubs", "shortContent": "Learn night-sky exposure techniques.", "fullContent": "Join us for a late-evening campus tour focusing on long-exposure photography, astrophotography techniques, and manual camera setting calibration." }
+]
