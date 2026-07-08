@@ -29,6 +29,13 @@ notices and events along with real-time toast notifications whether it is saved 
 
 <h4>7)During the fetching of data, loading indicators are displayed and when 
 no such notices or events are present ,a friendly notice is also displayed.</h4>
+<h4>Key Challenges and Learnings:</h4>
+<h4>1>I struggled a lot with the git commands to push my project along with 
+internet issues and server crashes while uploading.</h4>
+<h4>2) Using a lot of features like React Router,Redux Tookit,etc, when the error came
+,it was very hard to debug the code but at last after spending the time and using LLM's 
+I finally got it.</h4>
+
 <h4>Github host Link:</h4>
 https://ritikkgpian.github.io/REACT_JS_PROJECT/
 <h4>Vercel live Link:</h4>
