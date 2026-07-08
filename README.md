@@ -29,3 +29,5 @@ notices and events along with real-time toast notifications whether it is saved 
 
 <h4>7)During the fetching of data, loading indicators are displayed and when 
 no such notices or events are present ,a friendly notice is also displayed.</h4>
+<h4>Github host Link:</h4>
+https://ritikkgpian.github.io/REACT_JS_PROJECT/
